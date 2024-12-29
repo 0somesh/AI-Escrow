@@ -44,11 +44,6 @@ A decentralized escrow system built on the Polygon blockchain, allowing secure t
 4. **Final Resolution**:
    - The Arbiter decides whether to release the funds to the Payee or refund the Payer based on the dispute and AI suggestions.
 
-## Live Demo
-
-Check out the live demo of the decentralized escrow system:  
-[Deployed Application](https://ai-escrow-qe98.vercel.app/)
-
 ## Video Overview
 
 Watch the project walkthrough on YouTube:  
