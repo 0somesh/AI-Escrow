@@ -30,7 +30,7 @@ A decentralized escrow system built on the Polygon blockchain, allowing secure t
 ## How It Works
 
 1. **Escrow Initiation**:
-   - The Payer initiates the escrow by creating a contract and depositing the funds.
+   - The Payer initiates the escrow by creating a contract and depositing funds.
    - An Arbiter (typically a legal body) is assigned to the escrow during contract creation.
   
 2. **Dispute Mechanism**:
