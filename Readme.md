@@ -4,7 +4,7 @@ A decentralized escrow system built on the Polygon blockchain, allowing secure t
 
 ## Features
 
-- **Secure Escrow**: Funds are safely locked in the contract until the transaction is completed.
+- **Secure Escrow**: Funds are safely locked in the contract until transaction is completed.
 - **Arbiter Authority**: The Arbiter has control over releasing payments or refunding the payer.
 - **Dispute Resolution**: If disputes arise, both parties (Payer and Payee) can raise flags to notify the Arbiter.
 - **AI Court Assistance**: The Arbiter can consult an AI-based court for suggestions on resolving disputes.
