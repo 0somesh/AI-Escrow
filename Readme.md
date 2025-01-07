@@ -14,7 +14,7 @@ A decentralized escrow system built on the Polygon blockchain, allowing secure t
 ## Tech Stack
 
 ### Blockchain & Frontend
-- **Solidity**: Smart contract language used to write the escrow logic.
+- **Solidity**: Smart contract language used to write a escrow logic.
 - **Polygon**: Layer 2 solution used for fast and low-cost transactions.
 - **Foundry**: Development framework for writing and testing Solidity contracts.
 - **React**: Frontend framework for building a user interface.
